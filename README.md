@@ -3,7 +3,7 @@
   <h3><a href="https://t.me/The_Hunter_Organization">Official Community</a></h3>
   <p><a href="https://indianime.com">IndiAnime Website</a> · <a href="https://t.me/AnimeDevils_Group">Chat Group</a> · <a> href="https://t.me/God_Hunter_Devil">Sponsoring</a></p>
   <p><em>IndiAnime is powered by WordPress & RankMath Plugins with the help of some contributors too</em></p>
-
+</div>
 
 ## TL;DR
 
