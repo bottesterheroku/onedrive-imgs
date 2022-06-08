@@ -9,7 +9,7 @@
 
 Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index
 
-- Completely free to host 💸
+- Completely free to access 💸
 - Super fast ⚡ and responsive 💦
-- Takes less than 15 minutes to setup ⏱️
-- Highly customisable ⚒️
+- Full fledged servers for not letting website down⏱️
+- High Download Speed ⚒️
