@@ -64,7 +64,6 @@ Please go to our [discussion forum](https://t.me/AnimeDevils_Group) for general 
     <tr>
       <td><a href="https://drive.swo.moe/%F0%9F%8C%9E%20Private%20folder">🔒 Protected folders</a></td>
       <td><a href="https://drive.swo.moe/%F0%9F%8D%8A%20Weibo%20emotes/Source2">⏬ Multi-file download</a></td>
-      <td>🔎 Native Search</td>
     </tr>
     <tr>
       <td>Password protected routes and files. <a href="https://ovi.swo.moe/docs/features/protected-folders">Details here</a></td>
