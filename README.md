@@ -14,5 +14,6 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 - Full fledged servers for not letting website down⏱️
 - High Download Speed ⚒️
 
-Discussion
+## Discussion
+
 Please go to our [discussion forum](https://t.me/AnimeDevils_Group) for general questions and FAQs, issues are for bug reports and bug reports only. Feature requests may or may not be ignored, as the [IndiAnime Team](https://t.me/The_Hunter_Organization/64) should agree your feature requests and then we can apply it.
