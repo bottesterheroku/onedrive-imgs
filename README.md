@@ -41,8 +41,8 @@ Sure, make a request in the website and we'll provide you the anime within 24 - 
 # 6. I also want to upload animes, what would you recommend?
 Brace yourself, young padawan. If I give you some tip so you can download the anime from [NyaaSi](https://nyaa.si) and to learn encoding you can refer from here
 
-- · https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/
-- · https://animesquid.blogspot.com/2011/04/megui-x264-anime-encoding-guide_13.html
+- https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/
+- https://animesquid.blogspot.com/2011/04/megui-x264-anime-encoding-guide_13.html
 
 # 7. I have some more questions, where can I ask?
 You can ask at [discussion](https://t.me/AnimeDevils_Group). [sigh] Literally it makes me sad to always redirect you to our discussion forum but we cannot do anything.
