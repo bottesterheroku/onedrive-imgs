@@ -60,3 +60,10 @@ You can ask at [discussion](https://t.me/AnimeDevils_Group). [sigh] Literally it
 ## Sponsors and donations
 Providing Free Service is hard! If you happen to like this project and want the site to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support!
  You can contact and donate us (Sorry we do not let users directly give donation cause we need some feedback also) Contact - [Here](https://t.me/DarkPhew)
+
+## License
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bottesterheroku/onedrive-imgs/main/footer.png" />
+  <em>made with ❤️ by <a href="https://t.me/DarkPhew">𝓓𝓪𝓻𝓴 𝓟𝓱𝓮𝓸𝓷𝓲𝔁</a></em>
+</div>
