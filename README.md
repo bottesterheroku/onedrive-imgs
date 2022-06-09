@@ -5,6 +5,8 @@
   <p><em>IndiAnime is powered by WordPress & RankMath Plugins with the help of some contributors too</em></p>
 </div>
 
+
+
 ## TL;DR
 
 Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index
@@ -14,12 +16,18 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 - Full fledged servers for not letting website down⏱️
 - High Download Speed ⚒️
 
+
+
 ## Discussion
 
 Please go to our [discussion forum](https://t.me/AnimeDevils_Group) for general questions and FAQs, issues are for bug reports and bug reports only. Feature requests may or may not be ignored, as the [IndiAnime Team](https://t.me/The_Hunter_Organization/64) should agree your feature requests and then we can apply it.
 
+
+
 ## Downloading (free)?
 Yes! Completely free to download but you need to pass the link shortner which contains some ads. We have put that link shortner to get some donations for us which we'll be putting in hosting of the website i.e. Server Costs
+
+
 
 ## FAQs / Questions 
 
@@ -46,6 +54,8 @@ Brace yourself, young padawan. If I give you some tip so you can download the an
 
 #### 7. I have some more questions, where can I ask?
 You can ask at [discussion](https://t.me/AnimeDevils_Group). [sigh] Literally it makes me sad to always redirect you to our discussion forum but we cannot do anything.
+
+
 
 ## Sponsors and donations
 Providing Free Service is hard! If you happen to like this project and want the site to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support!
