@@ -23,7 +23,7 @@ Yes! Completely free to download but you need to pass the link shortner which co
 
 # FAQs / Questions 
 
-### 1. Why don't you stream on website instead of providing downloading links?
+##### 1. Why don't you stream on website instead of providing downloading links?
 Streaming on website requires much more money than putting downloading links and once we get enough donations to maintain website. We'll start streaming on the website with full power. Till then you have to download and watch or click on the button after the download link
 
 ## 2. Where does your official community belong?
